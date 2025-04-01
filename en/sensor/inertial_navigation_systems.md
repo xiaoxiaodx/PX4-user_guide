@@ -8,6 +8,8 @@ Systems that can be used in this way include:
 
 - [VectorNav](../sensor/vectornav.md): IMU/AHRS, GNSS/INS, Dual GNSS/INS systems that can be used as an external INS or as a source of raw sensor data.
 
+- [GNW](../sensor/test.md): IMU/AHRS, GNSS/INS, Dual GNSS/INS systems that can be used as an external INS or as a source of raw sensor data.
+
 ## Glossary
 
 ### Inertial Measurement Unit (IMU)
